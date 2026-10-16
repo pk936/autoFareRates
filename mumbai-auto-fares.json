@@ -1,5 +1,5 @@
 {
-    "MIN_FARE_AMOUNT": 27,                 
+    "MIN_FARE_AMOUNT": 29,                 
     "PER_KM_CHARGE": 17.14,                
     "MIN_FARE_KM": 1.5,                    
     "NIGHT_CHARGE_PERCENTAGE": 0.25,       
